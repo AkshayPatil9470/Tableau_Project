@@ -18,4 +18,5 @@ join us in shaping the future of data visualization. Whether you're a seasoned T
 ### Guiding Principles:
 * Illuminate the path for fellow explorers with clear documentation and usage instructions.
 * Maintain consistency in project structure and organization to ensure seamless navigation.
+  
 mbark on your voyage of discovery, where every visualization is a beacon of insight and every dashboard a window into the world of data-driven decision-making.
