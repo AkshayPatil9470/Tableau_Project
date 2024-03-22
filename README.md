@@ -3,7 +3,7 @@ Welcome to Visualize Insights, your gateway to a world of data exploration and v
 # Discover Tableau's Magic
 Tableau is more than just a tool; it's a catalyst for innovation and discovery. With its intuitive interface and robust features, Tableau empowers users to unlock the full potential of their data, uncovering hidden patterns and trends that drive informed decision-making.
 # Embark on Your Journey
- 1.Initiate Your Expedition:
+1. Initiate Your Expedition:
 * Clone this repository to embark on your journey of exploration.
  2.Navigate Through the Projects:
 * Explore the diverse range of projects housed within this repository by navigating to the respective project folders.
